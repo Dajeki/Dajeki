@@ -80,7 +80,7 @@
 
 <br>
 
-<img src="./DajekiGithubReadme.png" style="width: 50%;">
+<img src="./DajekiGithubReadme.png" style="width: 50%;" align="center">
 
 <br>
 
