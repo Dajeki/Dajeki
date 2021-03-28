@@ -3,7 +3,7 @@
         <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" style="width: 400px;"/>
     </span>
 	<span style="display: inline-block; height: 100%; margin: 20px; color: #E8C073;">
-        <h3 style="margin: 0px; font-size: 2em; text-shadow: 1px 2px 0px #D61556;" align="left"><strong>Zachary A. K.</strong></h3>
+        <h3 style="margin: 0px; font-size: 2em; text-shadow: 1px 2px 0px #D61556;" align="center"><strong>Zachary A. K.</strong></h3>
         <h4 style="margin-top: 0px; margin-bottom: 30px;">If the wind will not serve, take to the oars.</h4>
     </span>
 </div>
