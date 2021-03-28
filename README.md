@@ -8,7 +8,7 @@
     </span>
 </div>
 
-
+<br>
 
 \- 🔨 I’m currently working on **<a href="https://github.com/Dajeki/dajeki-tarot-server" style="color: #B31F59; text-decoration: none; box-shadow: inset 0 -20px 0px -7px #E8C073; padding:0px 5px">Dajeki-Tarot</a>**
 
@@ -16,7 +16,7 @@
 
 \- 🤝🏻 I’m looking to find an open source project I can comfortably commit on!
 
-
+<br>
 
 <table style="border: solid 2px black;">
 	<thead style="background-color: #4E0138; color: #E8C073;">
