@@ -29,50 +29,34 @@
 	</thead>
     <tbody>
         <tr>
-            <td style="border: solid 2px black; background-color: #EEEEEE;">
-                <div style="display:flex; align-items:center; justify-content:center;">
-                    <div style="display:inline-flex; flex-direction: column; align-items:center; justify-content:center; height: 100%;">                          
+            <td style="border: solid 2px black; background-color: #EEEEEE;">                     
                         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
                         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />                 
                         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-                        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-                    </div>
-                    <div style="display:inline-flex; flex-direction: column; align-items:center; justify-content:center; height: 100%;">   
+                        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
                         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
                         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
                         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-                        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-                    </div>
-				</div>
-			</td>
-            <td style="border: solid 2px black; background-color: #EEEEEE;">
-                <div style="display:flex; flex-direction: column; align-items:center; justify-content:center; height: 100%; ">                          
+                        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />   
+		</td>
+            <td style="border: solid 2px black; background-color: #EEEEEE;">                
 					<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
                     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
                     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
                     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-     			</div>
 			</td>
-			<td style="border: solid 2px black; background-color: #EEEEEE;">
-				<div style="display:flex; align-items:center; justify-content:center;">
-                    <div style="display:inline-flex; flex-direction: column; align-items:center; justify-content:center; height: 100%;">                          
+			<td style="border: solid 2px black; background-color: #EEEEEE;">                     
                         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />                          
                     	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
                     	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-                    </div>
-                    <div style="display:inline-flex; flex-direction: column; align-items:center; justify-content:center; height: 100%;">   
                         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-                    	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />   
-                    </div>
-				</div>
+                    	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
 			</td>
-            <td style="border: solid 2px black; background-color: #EEEEEE;">
-                <div style="display:flex; flex-direction: column; align-items:center; justify-content:center; height: 100%;">                     
+            <td style="border: solid 2px black; background-color: #EEEEEE;">                   
                     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
                     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> 
                     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />       
-                    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />         
-                </div>
+                    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />       
             </td>
         </tr>
     </tbody>
