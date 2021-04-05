@@ -62,10 +62,6 @@
     </tbody>
 </table>
 <br>
-<div align="center">
-	<img src="./DajekiGithubReadme.png" style="width: 50%; margin: auto;">
-</div>
-<br>
 <h3 align="center">Communication Lines 🔌</h3>
 
 <hr/>
